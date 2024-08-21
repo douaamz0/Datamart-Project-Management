@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Doudi_SQLEXPRESS.Project Management"
+  DTS:DTSID="{A3DBE4D6-FB0D-4F17-8E75-3C18D2A0E9DE}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=Doudi\SQLEXPRESS;Initial Catalog=Project Management;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Project Management-{A3DBE4D6-FB0D-4F17-8E75-3C18D2A0E9DE}Doudi\SQLEXPRESS.Project Management;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
