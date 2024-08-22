@@ -5,3 +5,7 @@
   incluant la modélisation des données sous forme de schéma étoile ou en flocon.</p>
 
 <h3>Modèle en étoile</h3>
+<img src="Capture d'écran 2024-08-20 175310.png" width="600px" height="400px"/>
+
+<h3>Tableau de bord</h3>
+<img src="Capture d'écran 2024-08-21 121544.png" width="700px" height="400px"/>
